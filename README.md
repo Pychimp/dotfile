@@ -8,4 +8,4 @@ Sources of help :
 (and finally script that colors the terminal to solarized theme )
 <p><a href="https://gist.github.com/1397104">https://gist.github.com/1397104</a></p>
 
-** Make sure that you add a dot(.) while renaming the file: <code>bashrc --> .bashrc</code> **
+** Make sure that you add a dot(.) while renaming the file: <code>bashrc --> .bashrc</code> and the same for <code>zshrc --> .zshrc</code> **
